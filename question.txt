@@ -1,0 +1,55 @@
+What is the sum of the interior angles of a hexagon?
+A. 620
+B. 680
+C. 720
+D. 780
+C
+
+What does "cloud storage" mean? 
+A. saving file on own local environment
+B. saving file on Drive
+C. saving file on remote internet server
+D. saving file on external chip
+C
+
+Which programming language is used to create operating systems like Windows and Linux kernels?
+A. Java
+B. Python
+C. Ruby
+D. C 
+D
+
+Which device is used to store data permanently?
+A. RAM
+B. ROM 
+C. CPU
+D. Cache
+B
+
+Which data type is used to store decimal number in c?
+A. int
+B. float
+C. char
+D. long
+B
+
+What is 25% of 600?
+A. 125
+B. 140
+C. 150
+D. 160
+C
+
+What is the size of int in most 32-bit systems?
+A. 2 bytes
+B. 4 bytes
+C. 8 bytes
+D. 1 bytes
+B
+
+What is the default value of uninitialized local variables in c?
+A. 0
+B. garbage value
+C. -1
+D. NULL
+B
